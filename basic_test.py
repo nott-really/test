@@ -5,3 +5,4 @@ assert func() == "Foo"
 
 
 
+assert func() == "f"
